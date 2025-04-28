@@ -32,3 +32,4 @@ print("Difference of sets:", unique_fruits)
 fruits.clear()
 print("After clear:", fruits)
 
+     
